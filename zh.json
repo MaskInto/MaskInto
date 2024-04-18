@@ -1,0 +1,125 @@
+{
+
+  "config.Enable this mod.name": "启用模组",
+  "config.Enable this mod.description": "开启/关闭 模组",
+
+  "config.Magic Furnace Color.name": "魔法熔炉颜色",
+  "config.Magic Furnace Color.description": "可以更改魔法熔炉的颜色。由于熔炉形状相同，将魔法熔炉与特效魔法熔炉两者设置为相同的颜色时，将难以区分二者。",
+  "config.Magic Furnace Color.values.BLACK": "黑",
+  "config.Magic Furnace Color.values.BLUE": "蓝",
+  "config.Magic Furnace Color.values.GOLD": "金",
+  "config.Magic Furnace Color.values.GREEN": "绿",
+  "config.Magic Furnace Color.values.IRIDIUM": "紫",
+  "config.Magic Furnace Color.values.RED": "红",
+
+  "config.Special Magic Furnace Color.name": "特效魔法熔炉颜色",
+  "config.Special Magic Furnace Color.description": "可以更改魔法熔炉的颜色。由于熔炉形状相同，将魔法熔炉与特效魔法熔炉两者设置为相同的颜色时，将难以区分二者。",
+  "config.Special Magic Furnace Color.values.BLACK": "黑",
+  "config.Special Magic Furnace Color.values.BLUE": "蓝",
+  "config.Special Magic Furnace Color.values.GOLD": "金",
+  "config.Special Magic Furnace Color.values.GREEN": "绿",
+  "config.Special Magic Furnace Color.values.IRIDIUM": "紫",
+  "config.Special Magic Furnace Color.values.RED": "红",
+
+  "config.MagicFurnace UPG Recipe.name": "升级配方",
+  "config.MagicFurnace UPG Recipe.description": "除了魔法熔炉与特效魔法熔炉的常规配方外，允许通过使用材料升级常规熔炉获得魔法熔炉，升级魔法熔炉获得特效魔法熔炉。",
+
+  "config.Ore Tree.name": "矿脉树苗",
+  "config.Ore Tree.description": "如果启用，各种「矿脉树苗」将出现在矮人（新）商店中。所有类型的树苗都是从一开始就出售的，树苗的默认价格可能是非合理的。",
+
+
+  "config.section.Sapling Price.name": "^高纯度矿脉树苗价格",
+  "config.section.Sapling Price.description": "启用「矿脉树苗」后，你可以设置商店中出售高纯度矿脉树苗的价格。务必输入整数。",
+
+  "config.CopperNode Sapling Price.name": "高纯度铜矿脉树苗价格",
+  "config.CopperNode Sapling Price.description": "启用「高纯度矿脉树苗价格」后，你可以设置商店中出售高纯度矿脉树苗的价格。务必输入整数。默认值为42500。",
+  "config.IronNode Sapling Price.name": "高纯度铁矿脉树苗价格",
+  "config.IronNode Sapling Price.description": "启用「高纯度矿脉树苗价格」后，你可以设置商店中出售高纯度矿脉树苗的价格。务必输入整数。默认值为85000。",
+  "config.GoldNode Sapling Price.name": "高纯度金矿脉树苗价格",
+  "config.GoldNode Sapling Price.description": "启用「高纯度矿脉树苗价格」后，你可以设置商店中出售高纯度矿脉树苗的价格。务必输入整数。默认值为127500。",
+  "config.IridiumNode Sapling Price.name": "高纯度铱矿脉树苗价格",
+  "config.IridiumNode Sapling Price.description": "启用「高纯度矿脉树苗价格」后，你可以设置商店中出售高纯度矿脉树苗的价格。务必输入整数。默认值为300000。",
+  "config.RadioactiveNode Sapling Price.name": "高纯度放射性矿脉树苗价格",
+  "config.RadioactiveNode Sapling Price.description": "启用「高纯度矿脉树苗价格」后，你可以设置商店中出售高纯度矿脉树苗的价格。务必输入整数。默认值为3000000。",
+
+
+  "config.section.Sapling Price(OreTree).name": "^矿脉树苗价格",
+  "config.section.Sapling Price(OreTree).description": "启用「矿脉树苗」后，你可以设置商店中出售矿脉树苗的价格。务必输入整数。",
+
+  "config.CopperOre Sapling Price.name": "铜矿脉树苗价格",
+  "config.CopperOre Sapling Price.description": "启用「矿脉树苗价格」后，你可以设置商店中出售矿脉树苗的价格。务必输入整数。默认值为3000。",
+  "config.IronOre Sapling Price.name": "铁矿脉树苗价格",
+  "config.IronOre Sapling Price.description": "启用「矿脉树苗价格」后，你可以设置商店中出售矿脉树苗的价格。务必输入整数。默认值为6000。",
+  "config.GoldOre Sapling Price.name": "金矿脉树苗价格",
+  "config.GoldOre Sapling Price.description": "启用「矿脉树苗价格」后，你可以设置商店中出售矿脉树苗的价格。务必输入整数。默认值为9000。",
+  "config.IridiumOre Sapling Price.name": "铱矿脉树苗价格",
+  "config.IridiumOre Sapling Price.description": "启用「矿脉树苗价格」后，你可以设置商店中出售矿脉树苗的价格。务必输入整数。默认值为30000。",
+  "config.RadioactiveOre Sapling Price.name": "放射性矿脉树苗价格",
+  "config.RadioactiveOre Sapling Price.description": "启用「矿脉树苗价格」后，你可以设置商店中出售矿脉树苗的价格。务必输入整数。默认值为300000。",
+
+
+
+  "Crusher_Name": "破碎机",
+  "Crusher_Description": "一种具有强大叶片的破碎机，需要一个煤炭作为燃料。它可以将「高纯度矿脉」粉碎成对应种类矿石，也可以将各种类型的矿锭粉碎成对应种类矿石。",
+  "MagicFurnace_Name": "魔法熔炉",
+  "MagicFurnace_Description": "融合了巫师与克林特技术的神奇机器。可以在无需燃料的情况下将「高纯度矿脉」加工成矿锭。它也拥有普通熔炉的功能，但效率更高。",
+  "SpecialMagicFurnace_Name": "特效魔法熔炉",
+  "SpecialMagicFurnace_Description": "融合了巫师与克林特技术的神奇机器。可以在无需燃料的情况下将「高纯度矿脉」加工成矿锭，速度比魔法熔炉更快。它也拥有普通熔炉的功能，效率非常高。",
+
+  "MagicFurnace_UPG_Name": "魔法熔炉",
+  "SpecialMagicFurnace_UPG_Name": "特效魔法熔炉",
+
+
+  "CopperNode_Name": "高纯度铜矿脉",
+  "CopperNode_Description": "高纯度矿脉，矿脉树苗果实。拥有微弱热量，需要专属熔炉处理。",
+  "IronNode_Name": "高纯度铁矿脉",
+  "IronNode_Description": "高纯度矿脉，矿脉树苗果实。拥有微弱热量，需要专属熔炉处理。",
+  "GoldNode_Name": "高纯度金矿脉",
+  "GoldNode_Description": "高纯度矿脉，矿脉树苗果实。拥有微弱热量，需要专属熔炉处理。",
+  "IridiumNode_Name": "高纯度铱矿脉",
+  "IridiumNode_Description": "高纯度矿脉，矿脉树苗果实。拥有微弱热量，需要专属熔炉处理。",
+  "RadioactiveNode_Name": "高纯度放射性矿脉",
+  "RadioactiveNode_Description": "高纯度矿脉，矿脉树苗果实。拥有微弱热量，需要专属熔炉处理。",
+
+
+  "CopperNode_Sapling_Name": "高纯度铜矿脉树苗",
+  "CopperNode_Sapling_Description": "28天成熟。秋季结出「高纯度铜矿脉」。只有当树苗周围8格为空时才会生长。",
+  "IronNode_Sapling_Name": "高纯度铁矿脉树苗",
+  "IronNode_Sapling_Description": "28天成熟。冬季结出「高纯度铁矿脉」。只有当树苗周围8格为空时才会生长。",
+  "GoldNode_Sapling_Name": "高纯度金矿脉树苗",
+  "GoldNode_Sapling_Description": "28天成熟。夏季结出「高纯度金矿脉」。只有当树苗周围8格为空时才会生长。",
+  "IridiumNode_Sapling_Name": "高纯度铱矿脉树苗",
+  "IridiumNode_Sapling_Description": "28天成熟。春季结出「高纯度铱矿脉」。只有当树苗周围8格为空时才会生长。",
+  "RadioactiveNode_Sapling_Name": "高纯度放射性矿脉树苗",
+  "RadioactiveNode_Sapling_Description": "28天成熟。夏季结出「高纯度放射性矿脉」。只有当树苗周围8格为空时才会生长。",
+
+
+  "CopperNode_Sapling.Mail_Title": "开启矿脉树苗商店",
+  "CopperNode_Sapling.Mail_Text": "^^你好。^^我经营稀有物品。^^这是一个产品样本.^^-矮人商人默钱特",
+
+  "MagicFurnace_UPG.Mail_Title": "魔法熔炉",
+  "MagicFurnace_UPG.Mail_Text": "我先前给你的「魔法熔炉」配方可以通过升级普通熔炉来制作，这样你就不必从头开始了。^^当然，这个是我送给你的。^^-克林特",
+  "SpecialMagicFurnace_UPG.Mail_Title": "特效魔法熔炉",
+  "SpecialMagicFurnace_UPG.Mail_Text": "我先前给你的「特效魔法熔炉」配方可以通过升级魔法熔炉来制作，这样你就不必从头开始了。^^当然，这个是我送给你的。^^-克林特",
+
+
+  "HPONT_PreparationMessage":"准备中^09:00开始营业",
+  "HPONT_ShopMenu": "欢迎光临。这是一件稀有物品。",
+  "HPONT_ClosedMessage":"非营业时间^请营业时再来",
+  "HPONT_DEMOtree01":"一棵奇怪的树，并且正在生长。^似乎要结出某种矿脉",
+  "HPONT_DEMOtree02":"一棵奇怪的树，并且正在生长。^它上面有一个看起来像金矿矿脉的东西，但这是...",
+
+
+
+  "CopperOre_Sapling_Name": "铜矿脉树苗",
+  "CopperOre_Sapling_Description": "28天成熟。秋季结出「高纯度铜矿脉」。只有当树苗周围8格为空时才会生长。",
+  "IronOre_Sapling_Name": "铁矿脉树苗",
+  "IronOre_Sapling_Description": "28天成熟。冬季结出「高纯度铁矿脉」。只有当树苗周围8格为空时才会生长。",
+  "GoldOre_Sapling_Name": "金矿脉树苗",
+  "GoldOre_Sapling_Description": "28天成熟。夏季结出「高纯度金矿脉」。只有当树苗周围8格为空时才会生长。",
+  "IridiumOre_Sapling_Name": "铱矿脉树苗",
+  "IridiumOre_Sapling_Description": "28天成熟。春季结出「高纯度铱矿脉」。只有当树苗周围8格为空时才会生长。",
+  "RadioactiveOre_Sapling_Name": "放射性矿脉树苗",
+  "RadioactiveOre_Sapling_Description": "28天成熟。夏季结出「高纯度放射性矿脉」。只有当树苗周围8格为空时才会生长。",
+
+}
